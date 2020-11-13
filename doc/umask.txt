@@ -1,0 +1,10 @@
+NOM
+       umask - met en place un masque pour les droits
+
+SYNOPSIS
+       umask MODE
+
+DESCRIPTION
+
+       Met en place un mask pour les droit en fonction du nombre octale MODE, inférieur ou égale à
+       777. 

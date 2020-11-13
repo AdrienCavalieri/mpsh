@@ -1,0 +1,10 @@
+NOM
+       type - indique comment un nom de commande est interprété
+
+SYNOPSIS
+       type NOM [NOM]...
+
+DESCRIPTION
+
+       Indique comment chaque nom est interprété, comme un alias, comme une commande interne ou
+       comme une commande externe.

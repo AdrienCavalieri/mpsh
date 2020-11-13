@@ -1,0 +1,10 @@
+NOM
+       exit - sort du shell
+
+SYNOPSIS
+       exit [VALEUR]
+
+DESCRIPTION
+
+       Sans argument, sort du shell avec la valeur de retour de la dernière commande lancée.
+       Sinon la valeur de retour est VALEUR.

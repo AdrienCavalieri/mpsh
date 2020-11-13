@@ -1,0 +1,11 @@
+NOM
+       export - exporte une variable
+
+SYNOPSIS
+       export VAR[=MOT]
+
+DESCRIPTION
+
+       Exporte une variable, c'est a dire la transforme en variable d'environnement.
+       Si l'argument est donné sous forme d'une affectation, export créé directement la
+       variable d'environnement VAR.

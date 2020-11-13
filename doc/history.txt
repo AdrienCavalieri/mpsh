@@ -1,0 +1,15 @@
+NOM
+      history - manipule l'historique
+
+SYNOPSIS
+      history [OPTION] REP
+
+DESCRIPTION
+
+       Sans argument, affiche la liste numérotée de l'historique des commandes.
+
+       n
+            relance la commande dont le numéro dans la liste est n.
+
+       -n
+	    fixe à n le nombre de commandes enregistrées dans l'historique.

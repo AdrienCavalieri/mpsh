@@ -1,0 +1,9 @@
+NOM
+       pwd - affiche la référence absolue du répertoire courant
+
+SYNOPSIS
+       pwd
+
+DESCRIPTION
+
+       Affiche la référence absolue du répertoire courant.

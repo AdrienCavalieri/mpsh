@@ -1,0 +1,9 @@
+NOM
+       unalias - supprime un alias
+
+SYNOPSIS
+       unalias NAME
+
+DESCRIPTION
+
+       Supprime l'alias de nom NAME.

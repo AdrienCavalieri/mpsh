@@ -1,0 +1,14 @@
+NOM
+       echo - affiche une suite de mots
+
+SYNOPSIS
+       echo [OPTION] [MOT]...
+
+DESCRIPTION
+
+       Affiche une suite de mot, un mot est une chaine de caracteres sans espacement,
+       si le mot est une variable (commençant pat '$'), alors echo affiche sa valeur.
+
+       -n
+            n'ajoute pas d'espace apres le dernier affichage.
+

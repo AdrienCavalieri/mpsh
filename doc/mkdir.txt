@@ -1,0 +1,13 @@
+NOM
+       mkdir - créé un répertoire 
+
+SYNOPSIS
+       mkdir [OPTION] REP
+
+DESCRIPTION
+
+       Créé le répertoire rep, s'il n'existe pas déjà.
+
+       -p
+             n'affiche pas d'erreur si le repertoire existe.
+

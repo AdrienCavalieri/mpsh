@@ -1,0 +1,12 @@
+NOM
+       alias - créé un alias pour une commande 
+
+SYNOPSIS
+       alias [NOM=VALEUR]
+
+DESCRIPTION
+
+       Créé un alias NOM pour la commande contenue dans VALEUR, si ce nom est
+       déjà utilisé alors l'ancienne valeur est écrasée.
+       Sans argument, affiche les alias existants.
+

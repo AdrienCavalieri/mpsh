@@ -1,0 +1,10 @@
+NOM
+       completion - créé une completion personnalisé
+
+SYNOPSIS
+       completion CMD EXT [EXT]...
+
+DESCRIPTION
+
+       Créé une completion personnalisée pour la commande CMD. L'autocompletion ne proposera plus que 
+       les repertoires et les fichiers ayant une des extensions. 

@@ -1,0 +1,10 @@
+NOM
+       cd - change le répertoire courant 
+
+SYNOPSIS
+       cd [REP]
+
+DESCRIPTION
+
+       Change le répertoire courant pour REP. Si aucun répertoire n'est proposé le repertoire
+       ciblé sera celui indiqué par la variable $HOME.

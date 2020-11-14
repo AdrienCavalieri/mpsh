@@ -1,5 +1,9 @@
 # mpsh
 
+## Dépendance
+
+Notre projet utilise la bibliothèque C readline.
+
 ## Utilisation sous GNU/Linux
 
 1. Cloner le dépôt.
